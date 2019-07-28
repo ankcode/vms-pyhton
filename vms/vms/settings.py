@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'vmsdb',
         'USER': 'root',
-        'PASSWORD': 'vmsroot',
+        'PASSWORD': 'vmsroot'
     }
 }
 
